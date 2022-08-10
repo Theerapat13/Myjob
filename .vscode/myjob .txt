@@ -1,0 +1,20 @@
+Java programmer
+ตำแหน่ง มิตซูบิชิ เทอร์โบชาร์จเจอร์ โปรแกรมเมอร์
+Mitsubishi Turbochager Asia
+
+ไฮไลท์เด่นของงาน
+
+>Platform RPA, web application, C#.NET/VB.NET
+>Implement web application platform
+>Testing software
+
+Qualification
+
+>Bachelor's Degree in Computer Science
+>Experience in RPA Developer and Web Programming C#.NET/VB.NET (UiPath)
+>Experience in Development, Implement web application platform
+>Basic communication in English
+>Good point if experience in Low code development such as K2 platform
+>Good point if knowledge in data analytic tools such as SAP Business Object BI/BPC
+>Other knowledge such as MS Visual Studio 2015, SQL Management studio, Crystal Report 2013, SAP BI/BPC, K2 workflow
+
